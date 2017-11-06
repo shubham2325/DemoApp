@@ -1,2 +1,2 @@
 # DemoApp
-This is a Demo App
+This is a Demo App for testing purpose...
